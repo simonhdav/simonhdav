@@ -1,16 +1,32 @@
-## Hi there 👋
+# Simon Davidson (@simonhdav)
 
-<!--
-**simonhdav/simonhdav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Film/TV picture editor building macOS tools for faster creative workflows.
 
-Here are some ideas to get you started:
+## Shipping: SFXScout (macOS)
+SFXScout is a macOS app for browsing and searching your local SFX library with fast auditioning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Download: https://github.com/simonhdav/SFXScout-Public-Releases/releases
+- Feedback form: https://forms.gle/gAY71ercmhJhNrQ56
+
+### Quick start
+1. Download the latest `SFXScout-*.zip` from Releases
+2. Unzip, then drag `SFXScout.app` into Applications
+3. First launch: right-click → Open (Gatekeeper)
+4. Add your SFX folder(s) and let indexing finish
+
+### What I want feedback on
+- Library size + how long initial indexing took
+- Searches that felt “wrong” (and the query you used)
+- Any crashes/glitches + what you were doing right before
+
+### Privacy
+Runs locally. Your audio stays on your machine.
+
+## Focus (now / next)
+- Onboarding + help
+- Improved tagging + organization tools
+- Later: duplicate detection + smarter metadata
+
+## Contact
+- GitHub Releases + Feedback link above is best for SFXScout notes.
+
